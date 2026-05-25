@@ -1,0 +1,1001 @@
+Portfolio_ID,Date,Asset_Class,Target_Allocation,Current_Allocation,Min_Range,Max_Range,Monthly_Return,Volatility,Risk_Score,Market_Sentiment,Drift_Status,Recommended_Action,Target_User,What_They_Are_Looking_For,Why_They_Matter
+PF033,2025-01-01,US Equity,35,30,30,40,3.8,High,8,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF010,2025-01-02,Cash,6,5,1,11,0.45,Very Low,2,Bearish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF006,2025-01-03,Bonds,23,26,18,28,2.39,Low,3,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF041,2025-01-04,Cash,1,0,0,6,0.66,Very Low,2,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF025,2025-01-05,Commodities,10,10,5,15,3.02,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF026,2025-01-06,Commodities,5,7,0,10,0.01,Medium,7,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF049,2025-01-07,International Equity,13,13,8,18,3.96,Medium,6,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF044,2025-01-08,US Equity,38,43,33,43,2.75,High,9,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF010,2025-01-09,US Equity,43,40,38,48,0.9,High,8,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF047,2025-01-10,Commodities,14,6,9,19,-2.88,Medium,5,Bullish,Below Range,Buy 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF026,2025-01-11,International Equity,20,17,15,25,-1.82,Medium,7,Neutral,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF005,2025-01-12,Commodities,6,0,1,11,-0.62,Medium,5,Neutral,Below Range,Buy 6%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF007,2025-01-13,US Equity,45,52,40,50,-2.21,High,9,Bearish,Above Range,Sell 7%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF028,2025-01-14,International Equity,17,12,12,22,-4.27,Medium,5,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF014,2025-01-15,Bonds,34,29,29,39,-0.8,Low,3,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF013,2025-01-16,International Equity,10,10,5,15,6.12,Medium,6,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF039,2025-01-17,Commodities,14,16,9,19,-3.43,Medium,5,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF017,2025-01-18,US Equity,42,35,37,47,3.05,High,8,Neutral,Below Range,Buy 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF023,2025-01-19,International Equity,15,7,10,20,0.5,Medium,7,Neutral,Below Range,Buy 8%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF007,2025-01-20,US Equity,42,43,37,47,2.95,High,8,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF003,2025-01-21,Cash,3,5,0,8,0.2,Very Low,2,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF024,2025-01-22,US Equity,45,51,40,50,2.17,High,8,Neutral,Above Range,Sell 6%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF050,2025-01-23,Cash,4,7,0,9,0.9,Very Low,1,Bullish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF045,2025-01-24,Cash,2,7,0,7,0.02,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF018,2025-01-25,US Equity,47,53,42,52,-0.45,High,10,Bullish,Above Range,Sell 6%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF039,2025-01-26,US Equity,43,45,38,48,7.21,High,10,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF024,2025-01-27,International Equity,19,14,14,24,-0.38,Medium,5,Bearish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF036,2025-01-28,International Equity,15,10,10,20,3.64,Medium,7,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF028,2025-01-29,Bonds,33,30,28,38,1.46,Low,4,Bearish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF049,2025-01-30,Cash,10,8,5,15,0.51,Very Low,1,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF032,2025-01-31,Bonds,27,20,22,32,-0.02,Low,3,Neutral,Below Range,Buy 7%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2025-02-01,International Equity,10,15,5,15,-2.37,Medium,7,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF041,2025-02-02,Cash,6,12,1,11,0.9,Very Low,2,Neutral,Above Range,Sell 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF005,2025-02-03,Bonds,34,34,29,39,0.34,Low,3,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF001,2025-02-04,International Equity,17,10,12,22,-2.52,Medium,7,Bullish,Below Range,Buy 7%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF047,2025-02-05,Commodities,11,10,6,16,0.88,Medium,6,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF004,2025-02-06,Bonds,24,28,19,29,1.37,Low,3,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF048,2025-02-07,Commodities,8,10,3,13,3.61,Medium,6,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF031,2025-02-08,Cash,1,0,0,6,0.75,Very Low,1,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF026,2025-02-09,US Equity,41,36,36,46,5.11,High,10,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF033,2025-02-10,Bonds,27,22,22,32,2.18,Low,4,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF030,2025-02-11,Commodities,12,15,7,17,2.36,Medium,6,Neutral,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF032,2025-02-12,International Equity,11,17,6,16,-2.07,Medium,6,Bearish,Above Range,Sell 6%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF045,2025-02-13,Bonds,28,28,23,33,1.22,Low,3,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF028,2025-02-14,International Equity,11,10,6,16,-0.15,Medium,7,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF014,2025-02-15,Cash,4,4,0,9,0.23,Very Low,1,Neutral,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF004,2025-02-16,International Equity,13,12,8,18,-0.67,Medium,7,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF031,2025-02-17,Cash,1,0,0,6,0.57,Very Low,2,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF050,2025-02-18,US Equity,37,30,32,42,-3.03,High,8,Neutral,Below Range,Buy 7%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF011,2025-02-19,Cash,9,14,4,14,0.31,Very Low,1,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF005,2025-02-20,Bonds,22,28,17,27,1.76,Low,4,Bearish,Above Range,Sell 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF029,2025-02-21,Bonds,26,25,21,31,1.59,Low,3,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF006,2025-02-22,US Equity,49,56,44,54,0.69,High,9,Neutral,Above Range,Sell 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF031,2025-02-23,Bonds,28,35,23,33,1.08,Low,4,Bearish,Above Range,Sell 7%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF006,2025-02-24,Commodities,10,7,5,15,-0.7,Medium,7,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF041,2025-02-25,Commodities,6,0,1,11,2.58,Medium,5,Neutral,Below Range,Buy 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF020,2025-02-26,International Equity,18,19,13,23,0.26,Medium,5,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF031,2025-02-27,Cash,1,7,0,6,0.95,Very Low,1,Neutral,Above Range,Sell 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF019,2025-02-28,International Equity,12,10,7,17,6.06,Medium,6,Bearish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF015,2025-03-01,Commodities,12,15,7,17,-0.68,Medium,6,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF007,2025-03-02,International Equity,16,12,11,21,0.94,Medium,7,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF044,2025-03-03,Cash,10,6,5,15,0.07,Very Low,2,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF049,2025-03-04,Cash,8,1,3,13,0.62,Very Low,1,Bullish,Below Range,Buy 7%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF037,2025-03-05,US Equity,49,51,44,54,5.35,High,9,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF043,2025-03-06,Bonds,25,24,20,30,0.99,Low,3,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF020,2025-03-07,US Equity,49,43,44,54,0.74,High,9,Neutral,Below Range,Buy 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF039,2025-03-08,Bonds,35,38,30,40,1.3,Low,3,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF003,2025-03-09,International Equity,15,13,10,20,2.45,Medium,7,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF031,2025-03-10,Cash,5,10,0,10,0.18,Very Low,1,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF030,2025-03-11,Commodities,12,11,7,17,4.6,Medium,5,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF042,2025-03-12,Commodities,15,14,10,20,0.71,Medium,7,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF027,2025-03-13,International Equity,10,17,5,15,-3.61,Medium,6,Bearish,Above Range,Sell 7%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF026,2025-03-14,US Equity,50,48,45,55,0.76,High,10,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF049,2025-03-15,Commodities,12,10,7,17,2.42,Medium,6,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2025-03-16,Cash,2,0,0,7,0.28,Very Low,1,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF029,2025-03-17,US Equity,46,43,41,51,-1.55,High,8,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF028,2025-03-18,Commodities,13,6,8,18,3.27,Medium,7,Bullish,Below Range,Buy 7%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF033,2025-03-19,US Equity,50,46,45,55,-4.15,High,10,Neutral,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF021,2025-03-20,Cash,10,8,5,15,0.43,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF036,2025-03-21,International Equity,12,19,7,17,-4.19,Medium,6,Neutral,Above Range,Sell 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF010,2025-03-22,US Equity,45,50,40,50,6.29,High,9,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF002,2025-03-23,International Equity,18,13,13,23,4.15,Medium,7,Neutral,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF048,2025-03-24,Bonds,29,26,24,34,2.48,Low,3,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF018,2025-03-25,Cash,5,2,0,10,0.37,Very Low,2,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF003,2025-03-26,International Equity,17,17,12,22,-2.41,Medium,6,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF012,2025-03-27,Bonds,21,19,16,26,2.07,Low,4,Bullish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF037,2025-03-28,Bonds,27,30,22,32,-0.71,Low,4,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF038,2025-03-29,International Equity,16,18,11,21,-2.94,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF047,2025-03-30,International Equity,15,17,10,20,4.35,Medium,7,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF041,2025-03-31,Bonds,23,20,18,28,1.41,Low,3,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF003,2025-04-01,Commodities,6,7,1,11,3.96,Medium,7,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF033,2025-04-02,US Equity,46,54,41,51,-0.0,High,10,Bullish,Above Range,Sell 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF024,2025-04-03,Bonds,34,42,29,39,1.58,Low,3,Bearish,Above Range,Sell 8%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF017,2025-04-04,Commodities,10,3,5,15,3.89,Medium,6,Neutral,Below Range,Buy 7%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF036,2025-04-05,Cash,10,6,5,15,0.92,Very Low,2,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF022,2025-04-06,International Equity,20,14,15,25,2.75,Medium,5,Bearish,Below Range,Buy 6%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF010,2025-04-07,International Equity,12,13,7,17,5.13,Medium,7,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF035,2025-04-08,Bonds,25,28,20,30,1.71,Low,4,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF039,2025-04-09,Bonds,35,41,30,40,0.85,Low,4,Bearish,Above Range,Sell 6%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF028,2025-04-10,Bonds,21,16,16,26,1.85,Low,4,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF021,2025-04-11,US Equity,42,35,37,47,0.15,High,8,Bearish,Below Range,Buy 7%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2025-04-12,US Equity,45,52,40,50,4.05,High,10,Bullish,Above Range,Sell 7%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF032,2025-04-13,Bonds,33,34,28,38,-0.51,Low,4,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF005,2025-04-14,Cash,6,0,1,11,0.61,Very Low,1,Neutral,Below Range,Buy 6%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF050,2025-04-15,Cash,10,14,5,15,0.98,Very Low,2,Bearish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF005,2025-04-16,Cash,8,10,3,13,0.81,Very Low,1,Neutral,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF019,2025-04-17,International Equity,10,3,5,15,-1.21,Medium,7,Bearish,Below Range,Buy 7%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF034,2025-04-18,Commodities,9,14,4,14,4.89,Medium,6,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF029,2025-04-19,Commodities,6,3,1,11,1.45,Medium,5,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF024,2025-04-20,Cash,7,0,2,12,0.73,Very Low,2,Bullish,Below Range,Buy 7%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF039,2025-04-21,Cash,10,16,5,15,0.03,Very Low,1,Bearish,Above Range,Sell 6%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF048,2025-04-22,Bonds,31,27,26,36,1.12,Low,4,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF005,2025-04-23,Bonds,32,32,27,37,1.82,Low,4,Bullish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF033,2025-04-24,International Equity,20,23,15,25,3.51,Medium,5,Neutral,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF020,2025-04-25,Bonds,26,18,21,31,0.44,Low,4,Neutral,Below Range,Buy 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF050,2025-04-26,International Equity,19,15,14,24,6.67,Medium,6,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF034,2025-04-27,Cash,0,0,0,5,0.52,Very Low,2,Neutral,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF043,2025-04-28,Commodities,8,8,3,13,-2.75,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF031,2025-04-29,Cash,0,0,0,5,0.65,Very Low,2,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF046,2025-04-30,Bonds,29,26,24,34,0.76,Low,4,Neutral,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF004,2025-05-01,Commodities,7,2,2,12,-0.81,Medium,6,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF002,2025-05-02,Commodities,8,10,3,13,-2.1,Medium,7,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF035,2025-05-03,US Equity,47,50,42,52,-4.37,High,10,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF005,2025-05-04,US Equity,38,42,33,43,-0.24,High,10,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF013,2025-05-05,International Equity,20,15,15,25,-3.46,Medium,6,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF011,2025-05-06,Cash,2,4,0,7,0.8,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF038,2025-05-07,International Equity,18,25,13,23,3.5,Medium,5,Bearish,Above Range,Sell 7%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF044,2025-05-08,Commodities,9,8,4,14,3.21,Medium,7,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF046,2025-05-09,Bonds,23,25,18,28,0.68,Low,3,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF040,2025-05-10,Bonds,30,34,25,35,0.26,Low,4,Neutral,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF031,2025-05-11,International Equity,18,17,13,23,6.3,Medium,7,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF023,2025-05-12,Commodities,6,10,1,11,4.96,Medium,5,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF004,2025-05-13,International Equity,13,13,8,18,6.2,Medium,5,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF031,2025-05-14,Cash,6,8,1,11,0.72,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF032,2025-05-15,Bonds,30,24,25,35,1.61,Low,3,Bullish,Below Range,Buy 6%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF033,2025-05-16,Bonds,21,16,16,26,2.71,Low,4,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF040,2025-05-17,International Equity,15,21,10,20,2.78,Medium,7,Bearish,Above Range,Sell 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF016,2025-05-18,International Equity,16,11,11,21,-2.78,Medium,6,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF011,2025-05-19,International Equity,19,11,14,24,-1.86,Medium,5,Bullish,Below Range,Buy 8%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF045,2025-05-20,International Equity,14,13,9,19,-2.37,Medium,5,Neutral,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF011,2025-05-21,Cash,9,3,4,14,0.53,Very Low,2,Bullish,Below Range,Buy 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF037,2025-05-22,Commodities,15,22,10,20,-3.09,Medium,6,Neutral,Above Range,Sell 7%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF005,2025-05-23,US Equity,49,41,44,54,4.7,High,9,Neutral,Below Range,Buy 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF008,2025-05-24,International Equity,12,17,7,17,-0.51,Medium,6,Bullish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF018,2025-05-25,Bonds,24,25,19,29,0.85,Low,4,Bearish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF048,2025-05-26,Bonds,21,13,16,26,-0.04,Low,3,Bearish,Below Range,Buy 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF020,2025-05-27,US Equity,47,40,42,52,-3.18,High,10,Bearish,Below Range,Buy 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF045,2025-05-28,Bonds,33,30,28,38,1.5,Low,4,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF027,2025-05-29,International Equity,16,23,11,21,-2.11,Medium,7,Bearish,Above Range,Sell 7%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF018,2025-05-30,Cash,3,5,0,8,0.65,Very Low,2,Neutral,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF016,2025-05-31,International Equity,19,17,14,24,0.75,Medium,5,Bullish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF007,2025-06-01,Cash,5,6,0,10,0.38,Very Low,2,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF010,2025-06-02,International Equity,15,8,10,20,1.75,Medium,5,Neutral,Below Range,Buy 7%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF011,2025-06-03,Bonds,27,34,22,32,1.2,Low,4,Neutral,Above Range,Sell 7%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF046,2025-06-04,Commodities,13,6,8,18,1.24,Medium,5,Bullish,Below Range,Buy 7%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF002,2025-06-05,Bonds,26,19,21,31,1.47,Low,4,Neutral,Below Range,Buy 7%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF040,2025-06-06,Cash,10,15,5,15,0.81,Very Low,1,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF006,2025-06-07,Cash,1,4,0,6,0.96,Very Low,2,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF015,2025-06-08,International Equity,17,9,12,22,3.43,Medium,6,Bearish,Below Range,Buy 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF005,2025-06-09,Bonds,28,28,23,33,2.6,Low,3,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF028,2025-06-10,Commodities,14,16,9,19,-0.16,Medium,7,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF023,2025-06-11,Bonds,30,34,25,35,2.88,Low,3,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF025,2025-06-12,Cash,9,13,4,14,0.09,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF028,2025-06-13,Bonds,30,22,25,35,2.77,Low,4,Bullish,Below Range,Buy 8%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF047,2025-06-14,International Equity,11,5,6,16,2.16,Medium,5,Bearish,Below Range,Buy 6%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF027,2025-06-15,Cash,2,0,0,7,0.27,Very Low,2,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF022,2025-06-16,Commodities,10,17,5,15,1.94,Medium,5,Bearish,Above Range,Sell 7%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF048,2025-06-17,Cash,6,2,1,11,0.3,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF029,2025-06-18,International Equity,14,17,9,19,-3.63,Medium,7,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF035,2025-06-19,Commodities,15,16,10,20,-1.58,Medium,6,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF049,2025-06-20,Cash,9,3,4,14,0.11,Very Low,1,Neutral,Below Range,Buy 6%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF002,2025-06-21,Commodities,5,4,0,10,1.11,Medium,6,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF007,2025-06-22,International Equity,11,7,6,16,-0.82,Medium,5,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF036,2025-06-23,International Equity,14,9,9,19,-4.73,Medium,7,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF038,2025-06-24,Bonds,33,30,28,38,-0.25,Low,4,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF043,2025-06-25,International Equity,13,7,8,18,1.93,Medium,6,Bearish,Below Range,Buy 6%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF021,2025-06-26,International Equity,16,11,11,21,-0.82,Medium,7,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF041,2025-06-27,US Equity,42,38,37,47,1.64,High,9,Bearish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF025,2025-06-28,Cash,2,0,0,7,0.31,Very Low,2,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF035,2025-06-29,Cash,6,12,1,11,0.49,Very Low,1,Bullish,Above Range,Sell 6%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF035,2025-06-30,Commodities,14,22,9,19,-2.87,Medium,7,Neutral,Above Range,Sell 8%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF046,2025-07-01,Bonds,23,16,18,28,0.8,Low,3,Bullish,Below Range,Buy 7%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF019,2025-07-02,Cash,3,1,0,8,0.81,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF049,2025-07-03,Cash,0,0,0,5,0.87,Very Low,1,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF030,2025-07-04,International Equity,20,25,15,25,-0.5,Medium,6,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF019,2025-07-05,International Equity,17,20,12,22,5.2,Medium,6,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF028,2025-07-06,Commodities,10,3,5,15,-3.0,Medium,5,Bearish,Below Range,Buy 7%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF028,2025-07-07,Bonds,29,32,24,34,0.0,Low,3,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF045,2025-07-08,US Equity,38,34,33,43,2.72,High,10,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF034,2025-07-09,Bonds,22,17,17,27,-0.59,Low,4,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF023,2025-07-10,Cash,3,0,0,8,0.92,Very Low,2,Bullish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF019,2025-07-11,International Equity,14,8,9,19,-2.02,Medium,7,Bullish,Below Range,Buy 6%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF024,2025-07-12,US Equity,42,49,37,47,3.3,High,9,Bullish,Above Range,Sell 7%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF028,2025-07-13,Cash,9,3,4,14,0.01,Very Low,1,Neutral,Below Range,Buy 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF045,2025-07-14,International Equity,11,5,6,16,1.14,Medium,7,Bearish,Below Range,Buy 6%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF001,2025-07-15,International Equity,11,6,6,16,0.44,Medium,7,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF050,2025-07-16,Bonds,25,33,20,30,2.13,Low,3,Neutral,Above Range,Sell 8%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF037,2025-07-17,US Equity,45,45,40,50,4.26,High,10,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF025,2025-07-18,Bonds,25,20,20,30,-0.09,Low,3,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF033,2025-07-19,Bonds,21,20,16,26,0.29,Low,4,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF024,2025-07-20,US Equity,40,34,35,45,6.4,High,8,Neutral,Below Range,Buy 6%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF027,2025-07-21,Bonds,29,32,24,34,1.37,Low,3,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF032,2025-07-22,US Equity,42,34,37,47,4.87,High,8,Neutral,Below Range,Buy 8%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF041,2025-07-23,US Equity,39,47,34,44,0.37,High,8,Neutral,Above Range,Sell 8%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF018,2025-07-24,International Equity,20,19,15,25,-1.5,Medium,7,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF029,2025-07-25,Bonds,26,22,21,31,-0.58,Low,4,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF026,2025-07-26,Commodities,6,7,1,11,4.26,Medium,6,Bullish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF004,2025-07-27,Cash,0,4,0,5,0.85,Very Low,1,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF006,2025-07-28,Bonds,26,20,21,31,1.33,Low,3,Bullish,Below Range,Buy 6%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF023,2025-07-29,Commodities,12,17,7,17,4.22,Medium,5,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF006,2025-07-30,Bonds,28,21,23,33,1.46,Low,4,Neutral,Below Range,Buy 7%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF037,2025-07-31,Commodities,11,19,6,16,-1.51,Medium,7,Bearish,Above Range,Sell 8%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF011,2025-08-01,Cash,0,2,0,5,0.6,Very Low,1,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF038,2025-08-02,US Equity,42,41,37,47,2.48,High,8,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF034,2025-08-03,US Equity,46,47,41,51,-2.72,High,8,Neutral,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF034,2025-08-04,International Equity,13,15,8,18,3.6,Medium,5,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF012,2025-08-05,Commodities,15,10,10,20,-0.63,Medium,5,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF012,2025-08-06,Cash,2,6,0,7,0.31,Very Low,2,Bullish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF029,2025-08-07,Cash,1,8,0,6,0.14,Very Low,1,Bullish,Above Range,Sell 7%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF027,2025-08-08,US Equity,43,43,38,48,5.23,High,9,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF021,2025-08-09,International Equity,16,23,11,21,4.46,Medium,6,Bullish,Above Range,Sell 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF042,2025-08-10,Commodities,10,7,5,15,3.32,Medium,7,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF004,2025-08-11,Bonds,25,23,20,30,2.9,Low,4,Bearish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF006,2025-08-12,International Equity,15,20,10,20,-3.95,Medium,5,Bullish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF003,2025-08-13,International Equity,17,17,12,22,-3.91,Medium,6,Bearish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF036,2025-08-14,Commodities,9,2,4,14,-2.49,Medium,7,Neutral,Below Range,Buy 7%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF049,2025-08-15,US Equity,47,46,42,52,1.19,High,8,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF047,2025-08-16,International Equity,13,6,8,18,0.08,Medium,7,Neutral,Below Range,Buy 7%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF027,2025-08-17,US Equity,37,39,32,42,6.14,High,10,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF003,2025-08-18,Bonds,23,24,18,28,2.47,Low,4,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF002,2025-08-19,Bonds,32,36,27,37,-0.84,Low,3,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF047,2025-08-20,Commodities,9,4,4,14,5.72,Medium,6,Bearish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF009,2025-08-21,International Equity,13,20,8,18,4.11,Medium,7,Bullish,Above Range,Sell 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF033,2025-08-22,Cash,0,0,0,5,0.03,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF002,2025-08-23,International Equity,15,21,10,20,-2.87,Medium,6,Bearish,Above Range,Sell 6%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF009,2025-08-24,International Equity,13,12,8,18,3.13,Medium,7,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF044,2025-08-25,Bonds,27,27,22,32,0.7,Low,4,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF018,2025-08-26,Cash,10,13,5,15,0.56,Very Low,2,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF047,2025-08-27,Commodities,15,13,10,20,-2.5,Medium,7,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF033,2025-08-28,US Equity,50,54,45,55,4.58,High,10,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF048,2025-08-29,Commodities,9,5,4,14,3.41,Medium,7,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF013,2025-08-30,Commodities,10,11,5,15,0.64,Medium,5,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF021,2025-08-31,Cash,6,0,1,11,0.87,Very Low,1,Bearish,Below Range,Buy 6%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF049,2025-09-01,Bonds,35,37,30,40,1.54,Low,4,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF021,2025-09-02,US Equity,39,44,34,44,7.55,High,10,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF005,2025-09-03,Cash,10,9,5,15,0.23,Very Low,2,Bearish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF002,2025-09-04,US Equity,44,52,39,49,-0.61,High,9,Bullish,Above Range,Sell 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF043,2025-09-05,Bonds,24,32,19,29,-0.32,Low,3,Bearish,Above Range,Sell 8%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF027,2025-09-06,US Equity,35,39,30,40,-3.39,High,8,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF023,2025-09-07,US Equity,43,38,38,48,-1.32,High,10,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF037,2025-09-08,International Equity,18,16,13,23,3.26,Medium,5,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF003,2025-09-09,International Equity,11,11,6,16,2.73,Medium,6,Bullish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF024,2025-09-10,Commodities,11,4,6,16,-3.9,Medium,6,Bearish,Below Range,Buy 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF011,2025-09-11,Commodities,11,11,6,16,4.36,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF008,2025-09-12,US Equity,48,45,43,53,2.95,High,10,Bullish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF043,2025-09-13,International Equity,14,16,9,19,-4.85,Medium,7,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF011,2025-09-14,Bonds,31,35,26,36,-0.41,Low,3,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF006,2025-09-15,US Equity,50,43,45,55,1.59,High,8,Bearish,Below Range,Buy 7%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF033,2025-09-16,International Equity,17,9,12,22,-3.77,Medium,7,Bullish,Below Range,Buy 8%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF007,2025-09-17,Cash,0,0,0,5,0.84,Very Low,2,Bearish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF017,2025-09-18,Bonds,30,38,25,35,0.5,Low,3,Bullish,Above Range,Sell 8%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF030,2025-09-19,Cash,3,9,0,8,0.82,Very Low,1,Bullish,Above Range,Sell 6%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF025,2025-09-20,Cash,0,5,0,5,0.84,Very Low,2,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF045,2025-09-21,Cash,3,3,0,8,0.4,Very Low,2,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF049,2025-09-22,Cash,9,10,4,14,0.69,Very Low,1,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF018,2025-09-23,Commodities,15,20,10,20,4.08,Medium,6,Bullish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF016,2025-09-24,Bonds,28,26,23,33,2.01,Low,4,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF041,2025-09-25,Cash,6,8,1,11,0.97,Very Low,1,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF009,2025-09-26,Commodities,9,3,4,14,-2.13,Medium,6,Bearish,Below Range,Buy 6%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF037,2025-09-27,Bonds,20,13,15,25,-0.39,Low,3,Neutral,Below Range,Buy 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF015,2025-09-28,Cash,3,0,0,8,0.52,Very Low,1,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF003,2025-09-29,Bonds,30,38,25,35,0.9,Low,3,Bearish,Above Range,Sell 8%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF033,2025-09-30,Commodities,11,12,6,16,-3.75,Medium,6,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF048,2025-10-01,US Equity,38,32,33,43,-2.26,High,8,Neutral,Below Range,Buy 6%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF029,2025-10-02,Bonds,34,28,29,39,-0.78,Low,3,Bearish,Below Range,Buy 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF044,2025-10-03,International Equity,16,11,11,21,1.42,Medium,7,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF020,2025-10-04,Commodities,12,4,7,17,0.74,Medium,7,Neutral,Below Range,Buy 8%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF027,2025-10-05,Commodities,6,10,1,11,1.37,Medium,5,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF043,2025-10-06,Cash,9,9,4,14,0.19,Very Low,1,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF032,2025-10-07,US Equity,43,45,38,48,-0.36,High,10,Bullish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF018,2025-10-08,International Equity,12,15,7,17,4.69,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2025-10-09,Commodities,12,15,7,17,3.75,Medium,5,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF042,2025-10-10,Cash,1,0,0,6,0.85,Very Low,1,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF049,2025-10-11,Bonds,32,28,27,37,0.86,Low,4,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2025-10-12,Cash,9,5,4,14,0.74,Very Low,2,Bearish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF048,2025-10-13,Commodities,15,18,10,20,-0.12,Medium,5,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF031,2025-10-14,Commodities,15,9,10,20,1.17,Medium,7,Bearish,Below Range,Buy 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF043,2025-10-15,Cash,3,0,0,8,0.51,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF009,2025-10-16,Bonds,30,37,25,35,0.92,Low,4,Bullish,Above Range,Sell 7%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF014,2025-10-17,Cash,4,1,0,9,0.52,Very Low,2,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF039,2025-10-18,International Equity,13,9,8,18,4.54,Medium,5,Neutral,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF035,2025-10-19,Cash,2,0,0,7,0.02,Very Low,2,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF031,2025-10-20,Cash,2,0,0,7,0.9,Very Low,2,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF001,2025-10-21,International Equity,12,19,7,17,4.19,Medium,7,Bearish,Above Range,Sell 7%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF035,2025-10-22,US Equity,38,40,33,43,0.31,High,10,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF020,2025-10-23,International Equity,16,21,11,21,1.63,Medium,6,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF011,2025-10-24,Cash,1,0,0,6,0.45,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF026,2025-10-25,International Equity,17,22,12,22,-3.94,Medium,6,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF044,2025-10-26,Cash,7,13,2,12,0.01,Very Low,2,Neutral,Above Range,Sell 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF048,2025-10-27,US Equity,46,40,41,51,7.96,High,9,Bearish,Below Range,Buy 6%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2025-10-28,US Equity,37,40,32,42,7.52,High,8,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF037,2025-10-29,Bonds,23,24,18,28,0.36,Low,4,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF027,2025-10-30,International Equity,20,12,15,25,0.78,Medium,6,Bullish,Below Range,Buy 8%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF014,2025-10-31,Commodities,8,12,3,13,2.74,Medium,7,Bearish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF010,2025-11-01,Cash,7,5,2,12,0.23,Very Low,1,Bullish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF032,2025-11-02,US Equity,38,30,33,43,4.94,High,10,Bearish,Below Range,Buy 8%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF044,2025-11-03,Bonds,32,25,27,37,1.1,Low,4,Neutral,Below Range,Buy 7%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF012,2025-11-04,Bonds,23,15,18,28,-0.95,Low,4,Bearish,Below Range,Buy 8%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF026,2025-11-05,Cash,9,11,4,14,0.37,Very Low,2,Neutral,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF048,2025-11-06,Commodities,14,13,9,19,4.14,Medium,7,Bearish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF007,2025-11-07,Bonds,20,16,15,25,2.98,Low,4,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF002,2025-11-08,Bonds,26,21,21,31,0.8,Low,4,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF006,2025-11-09,International Equity,19,16,14,24,6.75,Medium,6,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF021,2025-11-10,International Equity,12,14,7,17,0.06,Medium,5,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF048,2025-11-11,Commodities,9,17,4,14,5.66,Medium,5,Bullish,Above Range,Sell 8%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2025-11-12,US Equity,41,35,36,46,7.18,High,9,Neutral,Below Range,Buy 6%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF003,2025-11-13,Cash,4,3,0,9,0.25,Very Low,2,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF023,2025-11-14,Commodities,12,18,7,17,-2.65,Medium,7,Neutral,Above Range,Sell 6%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF031,2025-11-15,International Equity,14,19,9,19,-1.88,Medium,5,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF026,2025-11-16,Cash,0,5,0,5,0.8,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF013,2025-11-17,Bonds,32,26,27,37,0.69,Low,4,Neutral,Below Range,Buy 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF035,2025-11-18,US Equity,40,46,35,45,3.03,High,9,Bullish,Above Range,Sell 6%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF027,2025-11-19,US Equity,40,46,35,45,4.45,High,8,Bearish,Above Range,Sell 6%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF013,2025-11-20,Commodities,12,6,7,17,4.44,Medium,6,Bullish,Below Range,Buy 6%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF025,2025-11-21,Commodities,6,12,1,11,-1.53,Medium,6,Bullish,Above Range,Sell 6%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF016,2025-11-22,Commodities,15,23,10,20,-2.78,Medium,5,Bullish,Above Range,Sell 8%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF024,2025-11-23,International Equity,14,9,9,19,-0.25,Medium,5,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF032,2025-11-24,US Equity,42,44,37,47,7.1,High,10,Bullish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF035,2025-11-25,Bonds,31,35,26,36,0.43,Low,4,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF035,2025-11-26,International Equity,15,21,10,20,-1.7,Medium,7,Bearish,Above Range,Sell 6%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF034,2025-11-27,Commodities,15,12,10,20,4.83,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF032,2025-11-28,International Equity,16,18,11,21,-3.67,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF014,2025-11-29,Bonds,21,28,16,26,1.1,Low,3,Neutral,Above Range,Sell 7%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF005,2025-11-30,International Equity,10,15,5,15,4.86,Medium,7,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF050,2025-12-01,Bonds,23,21,18,28,-0.23,Low,3,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF021,2025-12-02,Cash,1,0,0,6,0.79,Very Low,2,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF029,2025-12-03,Cash,6,8,1,11,0.61,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF050,2025-12-04,International Equity,19,27,14,24,-3.38,Medium,6,Bullish,Above Range,Sell 8%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF037,2025-12-05,Commodities,5,1,0,10,-2.62,Medium,5,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF050,2025-12-06,Bonds,30,25,25,35,1.38,Low,3,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF021,2025-12-07,Commodities,11,3,6,16,2.34,Medium,6,Bullish,Below Range,Buy 8%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF022,2025-12-08,Cash,6,12,1,11,0.75,Very Low,1,Bearish,Above Range,Sell 6%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF026,2025-12-09,US Equity,50,44,45,55,0.18,High,9,Neutral,Below Range,Buy 6%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF013,2025-12-10,Cash,4,9,0,9,0.32,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF049,2025-12-11,Commodities,9,15,4,14,2.23,Medium,5,Neutral,Above Range,Sell 6%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF048,2025-12-12,US Equity,38,39,33,43,-4.82,High,9,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF011,2025-12-13,Cash,4,11,0,9,0.62,Very Low,1,Neutral,Above Range,Sell 7%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF002,2025-12-14,US Equity,44,50,39,49,3.51,High,10,Bearish,Above Range,Sell 6%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF016,2025-12-15,Commodities,11,13,6,16,0.85,Medium,5,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF041,2025-12-16,Cash,2,0,0,7,0.35,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF016,2025-12-17,Commodities,13,9,8,18,-0.58,Medium,5,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF020,2025-12-18,Cash,5,11,0,10,0.54,Very Low,1,Neutral,Above Range,Sell 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF027,2025-12-19,Cash,9,6,4,14,0.32,Very Low,1,Neutral,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF015,2025-12-20,International Equity,14,12,9,19,-3.72,Medium,7,Bearish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF013,2025-12-21,US Equity,46,53,41,51,4.26,High,9,Bearish,Above Range,Sell 7%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF030,2025-12-22,Bonds,33,32,28,38,1.97,Low,3,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF048,2025-12-23,Bonds,32,34,27,37,0.58,Low,3,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2025-12-24,US Equity,47,51,42,52,6.5,High,9,Bearish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF006,2025-12-25,International Equity,19,15,14,24,-0.28,Medium,5,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF036,2025-12-26,Commodities,6,12,1,11,2.34,Medium,7,Neutral,Above Range,Sell 6%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF047,2025-12-27,International Equity,19,15,14,24,-3.05,Medium,7,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF016,2025-12-28,International Equity,12,4,7,17,2.47,Medium,6,Bearish,Below Range,Buy 8%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF003,2025-12-29,Bonds,34,26,29,39,-0.02,Low,3,Bullish,Below Range,Buy 8%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF048,2025-12-30,Bonds,29,24,24,34,0.67,Low,3,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF008,2025-12-31,Cash,5,8,0,10,0.9,Very Low,1,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF039,2026-01-01,Commodities,13,6,8,18,-2.91,Medium,7,Neutral,Below Range,Buy 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF001,2026-01-02,Commodities,7,14,2,12,1.2,Medium,5,Bullish,Above Range,Sell 7%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF045,2026-01-03,US Equity,35,40,30,40,0.38,High,10,Bullish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF013,2026-01-04,Commodities,9,11,4,14,3.67,Medium,6,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF037,2026-01-05,Commodities,12,8,7,17,0.81,Medium,6,Neutral,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF012,2026-01-06,Commodities,14,17,9,19,-3.34,Medium,5,Bearish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF008,2026-01-07,Cash,4,9,0,9,0.09,Very Low,1,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF010,2026-01-08,Commodities,6,0,1,11,3.99,Medium,6,Neutral,Below Range,Buy 6%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF003,2026-01-09,US Equity,39,47,34,44,-3.49,High,10,Bullish,Above Range,Sell 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF018,2026-01-10,US Equity,44,42,39,49,-0.83,High,10,Bearish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF011,2026-01-11,Bonds,28,36,23,33,-0.59,Low,4,Neutral,Above Range,Sell 8%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF012,2026-01-12,US Equity,44,40,39,49,-4.62,High,8,Bullish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF020,2026-01-13,Cash,3,0,0,8,0.97,Very Low,2,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF032,2026-01-14,International Equity,12,12,7,17,5.95,Medium,7,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF046,2026-01-15,US Equity,37,43,32,42,5.99,High,10,Bullish,Above Range,Sell 6%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF022,2026-01-16,US Equity,45,49,40,50,2.68,High,8,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF036,2026-01-17,Bonds,33,32,28,38,-0.31,Low,4,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF014,2026-01-18,US Equity,49,44,44,54,3.91,High,10,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF028,2026-01-19,Bonds,24,25,19,29,0.56,Low,3,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF019,2026-01-20,Commodities,14,10,9,19,4.53,Medium,7,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF009,2026-01-21,US Equity,42,44,37,47,4.25,High,10,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF006,2026-01-22,Bonds,31,27,26,36,-0.46,Low,3,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF039,2026-01-23,Bonds,34,31,29,39,0.82,Low,4,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF010,2026-01-24,US Equity,50,53,45,55,-4.56,High,9,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF030,2026-01-25,Cash,8,2,3,13,0.25,Very Low,1,Bearish,Below Range,Buy 6%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF043,2026-01-26,Cash,4,5,0,9,0.17,Very Low,2,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF001,2026-01-27,Commodities,12,20,7,17,-3.23,Medium,5,Bearish,Above Range,Sell 8%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF010,2026-01-28,US Equity,40,37,35,45,-1.6,High,10,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF049,2026-01-29,Cash,3,9,0,8,0.73,Very Low,1,Bearish,Above Range,Sell 6%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF010,2026-01-30,US Equity,36,37,31,41,1.19,High,10,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF022,2026-01-31,Cash,6,8,1,11,0.96,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF036,2026-02-01,Commodities,9,13,4,14,0.61,Medium,7,Neutral,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF003,2026-02-02,US Equity,35,43,30,40,-3.65,High,10,Bearish,Above Range,Sell 8%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF045,2026-02-03,US Equity,37,32,32,42,4.2,High,8,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF050,2026-02-04,Bonds,29,35,24,34,2.69,Low,4,Bearish,Above Range,Sell 6%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF012,2026-02-05,US Equity,43,36,38,48,-1.64,High,8,Bearish,Below Range,Buy 7%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF002,2026-02-06,International Equity,16,11,11,21,5.95,Medium,5,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF028,2026-02-07,International Equity,20,20,15,25,-3.18,Medium,7,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF024,2026-02-08,International Equity,16,11,11,21,1.81,Medium,7,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF041,2026-02-09,Cash,10,8,5,15,0.18,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF035,2026-02-10,Commodities,15,11,10,20,-3.64,Medium,6,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF003,2026-02-11,International Equity,10,3,5,15,-0.13,Medium,7,Bullish,Below Range,Buy 7%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2026-02-12,Bonds,20,19,15,25,1.81,Low,3,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF008,2026-02-13,Cash,7,6,2,12,0.06,Very Low,1,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF029,2026-02-14,Cash,9,6,4,14,0.34,Very Low,1,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF046,2026-02-15,Bonds,24,28,19,29,2.11,Low,4,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF046,2026-02-16,Cash,3,0,0,8,0.64,Very Low,2,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF018,2026-02-17,International Equity,16,15,11,21,-2.7,Medium,7,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF017,2026-02-18,US Equity,41,48,36,46,-2.71,High,9,Bearish,Above Range,Sell 7%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF038,2026-02-19,Commodities,6,3,1,11,-2.42,Medium,7,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF025,2026-02-20,Cash,5,4,0,10,0.78,Very Low,2,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF041,2026-02-21,Bonds,35,40,30,40,-0.42,Low,3,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF019,2026-02-22,Commodities,10,3,5,15,-1.19,Medium,6,Bullish,Below Range,Buy 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF047,2026-02-23,Cash,3,0,0,8,0.41,Very Low,2,Bearish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF028,2026-02-24,International Equity,16,15,11,21,5.7,Medium,6,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF042,2026-02-25,Cash,7,6,2,12,0.08,Very Low,1,Bearish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF024,2026-02-26,US Equity,35,41,30,40,6.15,High,8,Neutral,Above Range,Sell 6%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF033,2026-02-27,International Equity,15,8,10,20,-1.44,Medium,7,Neutral,Below Range,Buy 7%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF016,2026-02-28,Commodities,11,4,6,16,-0.34,Medium,7,Bullish,Below Range,Buy 7%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF029,2026-03-01,Cash,3,5,0,8,0.35,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF012,2026-03-02,International Equity,20,21,15,25,0.42,Medium,5,Bullish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF023,2026-03-03,Commodities,7,3,2,12,0.96,Medium,6,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF038,2026-03-04,International Equity,13,5,8,18,5.46,Medium,6,Bearish,Below Range,Buy 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF023,2026-03-05,Cash,2,3,0,7,0.17,Very Low,2,Bearish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF037,2026-03-06,Commodities,14,15,9,19,-2.18,Medium,5,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF008,2026-03-07,Bonds,28,21,23,33,1.66,Low,3,Neutral,Below Range,Buy 7%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF022,2026-03-08,US Equity,47,43,42,52,-4.94,High,9,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF039,2026-03-09,US Equity,50,45,45,55,-0.99,High,9,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF026,2026-03-10,Bonds,28,34,23,33,1.71,Low,4,Bearish,Above Range,Sell 6%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF029,2026-03-11,Bonds,31,32,26,36,0.38,Low,4,Bullish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF001,2026-03-12,Commodities,11,5,6,16,-2.56,Medium,7,Bullish,Below Range,Buy 6%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF032,2026-03-13,International Equity,18,14,13,23,-2.61,Medium,7,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF032,2026-03-14,Cash,2,2,0,7,0.3,Very Low,2,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF033,2026-03-15,Bonds,23,26,18,28,1.32,Low,4,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF041,2026-03-16,Cash,0,0,0,5,0.32,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF044,2026-03-17,Commodities,9,3,4,14,1.14,Medium,7,Neutral,Below Range,Buy 6%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF022,2026-03-18,Commodities,6,9,1,11,4.23,Medium,7,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF031,2026-03-19,Bonds,26,24,21,31,2.18,Low,4,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF009,2026-03-20,Commodities,7,15,2,12,3.64,Medium,7,Bullish,Above Range,Sell 8%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF007,2026-03-21,Bonds,29,23,24,34,0.7,Low,3,Bearish,Below Range,Buy 6%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF043,2026-03-22,US Equity,36,30,31,41,-1.08,High,10,Bullish,Below Range,Buy 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF019,2026-03-23,Commodities,7,10,2,12,-0.48,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF028,2026-03-24,Bonds,23,26,18,28,1.79,Low,4,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF021,2026-03-25,Bonds,33,39,28,38,-0.56,Low,4,Bearish,Above Range,Sell 6%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF005,2026-03-26,International Equity,17,18,12,22,3.24,Medium,7,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF005,2026-03-27,International Equity,20,15,15,25,-0.24,Medium,5,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF023,2026-03-28,Commodities,8,3,3,13,-1.67,Medium,6,Neutral,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF007,2026-03-29,International Equity,14,20,9,19,-3.7,Medium,6,Neutral,Above Range,Sell 6%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF043,2026-03-30,US Equity,37,41,32,42,2.86,High,10,Neutral,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF008,2026-03-31,Cash,10,17,5,15,0.49,Very Low,2,Bullish,Above Range,Sell 7%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF032,2026-04-01,International Equity,17,10,12,22,-4.61,Medium,6,Bullish,Below Range,Buy 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF021,2026-04-02,US Equity,50,58,45,55,-4.28,High,9,Neutral,Above Range,Sell 8%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF023,2026-04-03,US Equity,35,27,30,40,4.95,High,9,Bearish,Below Range,Buy 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF003,2026-04-04,US Equity,42,36,37,47,6.84,High,9,Bullish,Below Range,Buy 6%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF045,2026-04-05,International Equity,10,2,5,15,6.83,Medium,6,Bullish,Below Range,Buy 8%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF019,2026-04-06,Bonds,35,32,30,40,1.46,Low,4,Neutral,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF014,2026-04-07,Commodities,14,8,9,19,3.18,Medium,6,Neutral,Below Range,Buy 6%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF041,2026-04-08,Commodities,13,15,8,18,-2.0,Medium,7,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF016,2026-04-09,Cash,7,7,2,12,0.94,Very Low,2,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF016,2026-04-10,Bonds,33,31,28,38,2.38,Low,4,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2026-04-11,US Equity,39,45,34,44,1.31,High,8,Bullish,Above Range,Sell 6%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF027,2026-04-12,US Equity,43,36,38,48,7.53,High,8,Bearish,Below Range,Buy 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF022,2026-04-13,Commodities,7,15,2,12,5.33,Medium,5,Neutral,Above Range,Sell 8%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF035,2026-04-14,Cash,2,0,0,7,0.18,Very Low,2,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF042,2026-04-15,Commodities,13,12,8,18,5.63,Medium,6,Bearish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF026,2026-04-16,Cash,4,8,0,9,0.31,Very Low,2,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF048,2026-04-17,Commodities,8,5,3,13,5.16,Medium,5,Bullish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF041,2026-04-18,International Equity,12,20,7,17,-4.2,Medium,6,Bullish,Above Range,Sell 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF021,2026-04-19,International Equity,13,14,8,18,-1.24,Medium,5,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF037,2026-04-20,International Equity,12,14,7,17,4.59,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF040,2026-04-21,Bonds,20,19,15,25,2.63,Low,3,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF013,2026-04-22,International Equity,15,10,10,20,-4.83,Medium,7,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF019,2026-04-23,Commodities,11,9,6,16,2.0,Medium,6,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF046,2026-04-24,Commodities,8,14,3,13,-3.14,Medium,6,Bearish,Above Range,Sell 6%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2026-04-25,International Equity,18,11,13,23,-1.01,Medium,6,Neutral,Below Range,Buy 7%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF030,2026-04-26,Cash,5,1,0,10,0.97,Very Low,1,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF019,2026-04-27,Bonds,30,30,25,35,-0.53,Low,3,Neutral,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF012,2026-04-28,Commodities,11,18,6,16,3.64,Medium,5,Bullish,Above Range,Sell 7%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF032,2026-04-29,US Equity,50,45,45,55,7.94,High,9,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF034,2026-04-30,US Equity,39,40,34,44,-2.65,High,10,Neutral,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF038,2026-05-01,Cash,7,2,2,12,0.89,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF047,2026-05-02,US Equity,45,52,40,50,0.9,High,8,Neutral,Above Range,Sell 7%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF050,2026-05-03,Cash,4,6,0,9,0.8,Very Low,1,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF023,2026-05-04,International Equity,12,16,7,17,-1.58,Medium,6,Bearish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF041,2026-05-05,US Equity,46,53,41,51,-1.51,High,9,Neutral,Above Range,Sell 7%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF030,2026-05-06,International Equity,15,14,10,20,2.77,Medium,7,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF033,2026-05-07,International Equity,12,13,7,17,5.1,Medium,7,Neutral,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF012,2026-05-08,US Equity,48,48,43,53,-0.38,High,10,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF048,2026-05-09,International Equity,14,20,9,19,4.09,Medium,6,Bullish,Above Range,Sell 6%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF020,2026-05-10,Cash,0,0,0,5,0.39,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF042,2026-05-11,Cash,2,0,0,7,0.01,Very Low,1,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF010,2026-05-12,Bonds,33,27,28,38,0.2,Low,3,Bullish,Below Range,Buy 6%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF032,2026-05-13,International Equity,17,16,12,22,-2.58,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF037,2026-05-14,Cash,7,15,2,12,0.59,Very Low,2,Neutral,Above Range,Sell 8%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF047,2026-05-15,Commodities,15,10,10,20,0.95,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF044,2026-05-16,Bonds,31,30,26,36,1.35,Low,4,Neutral,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF027,2026-05-17,Commodities,14,8,9,19,2.67,Medium,5,Neutral,Below Range,Buy 6%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF022,2026-05-18,International Equity,18,10,13,23,-0.69,Medium,7,Bullish,Below Range,Buy 8%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF046,2026-05-19,International Equity,18,25,13,23,-1.91,Medium,5,Bearish,Above Range,Sell 7%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF011,2026-05-20,US Equity,49,44,44,54,5.71,High,10,Bullish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF031,2026-05-21,Commodities,6,9,1,11,-0.65,Medium,5,Bearish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF027,2026-05-22,Commodities,6,11,1,11,-0.39,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF004,2026-05-23,International Equity,17,9,12,22,3.61,Medium,6,Bearish,Below Range,Buy 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF023,2026-05-24,International Equity,10,18,5,15,6.67,Medium,7,Neutral,Above Range,Sell 8%,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF003,2026-05-25,US Equity,43,41,38,48,6.54,High,9,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF016,2026-05-26,Cash,8,9,3,13,0.21,Very Low,2,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF022,2026-05-27,Commodities,5,13,0,10,-0.46,Medium,6,Neutral,Above Range,Sell 8%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF030,2026-05-28,Bonds,31,27,26,36,1.86,Low,3,Neutral,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF038,2026-05-29,US Equity,39,32,34,44,0.52,High,9,Bullish,Below Range,Buy 7%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF046,2026-05-30,Cash,10,15,5,15,1.0,Very Low,2,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF037,2026-05-31,International Equity,17,10,12,22,3.96,Medium,7,Bullish,Below Range,Buy 7%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF020,2026-06-01,Commodities,6,9,1,11,-0.97,Medium,5,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF025,2026-06-02,Commodities,12,15,7,17,-3.32,Medium,6,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF015,2026-06-03,International Equity,20,26,15,25,3.01,Medium,5,Neutral,Above Range,Sell 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF040,2026-06-04,International Equity,17,11,12,22,5.39,Medium,7,Bullish,Below Range,Buy 6%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF035,2026-06-05,Cash,0,0,0,5,0.66,Very Low,1,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF006,2026-06-06,Cash,7,0,2,12,0.34,Very Low,1,Bearish,Below Range,Buy 7%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF012,2026-06-07,US Equity,38,38,33,43,4.99,High,10,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF049,2026-06-08,US Equity,36,32,31,41,0.37,High,8,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF027,2026-06-09,Cash,6,1,1,11,0.27,Very Low,2,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF010,2026-06-10,Bonds,28,23,23,33,-0.01,Low,4,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF018,2026-06-11,Commodities,13,19,8,18,-3.58,Medium,7,Bullish,Above Range,Sell 6%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF047,2026-06-12,Cash,3,11,0,8,0.28,Very Low,1,Bearish,Above Range,Sell 8%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF022,2026-06-13,Cash,8,10,3,13,0.88,Very Low,2,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF035,2026-06-14,Bonds,30,22,25,35,1.44,Low,3,Bearish,Below Range,Buy 8%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF030,2026-06-15,US Equity,37,32,32,42,-0.41,High,8,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF015,2026-06-16,Commodities,5,5,0,10,2.81,Medium,5,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF036,2026-06-17,International Equity,17,15,12,22,-4.91,Medium,6,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF001,2026-06-18,Bonds,22,18,17,27,0.04,Low,4,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF018,2026-06-19,International Equity,16,11,11,21,3.16,Medium,6,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF011,2026-06-20,International Equity,16,18,11,21,-4.02,Medium,7,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF022,2026-06-21,Commodities,15,7,10,20,0.8,Medium,6,Bullish,Below Range,Buy 8%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF045,2026-06-22,US Equity,45,51,40,50,4.93,High,8,Bullish,Above Range,Sell 6%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF015,2026-06-23,US Equity,39,44,34,44,-4.14,High,9,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF007,2026-06-24,Cash,6,1,1,11,0.34,Very Low,1,Neutral,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2026-06-25,US Equity,37,45,32,42,-1.67,High,10,Bearish,Above Range,Sell 8%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF020,2026-06-26,US Equity,36,44,31,41,7.48,High,10,Bullish,Above Range,Sell 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF022,2026-06-27,Cash,8,4,3,13,0.06,Very Low,1,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF015,2026-06-28,Bonds,34,36,29,39,1.46,Low,4,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF001,2026-06-29,US Equity,42,41,37,47,1.25,High,9,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF015,2026-06-30,US Equity,46,47,41,51,0.73,High,8,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF022,2026-07-01,Commodities,13,11,8,18,-3.79,Medium,5,Bullish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF035,2026-07-02,Bonds,34,31,29,39,2.76,Low,3,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2026-07-03,International Equity,16,15,11,21,6.05,Medium,5,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF046,2026-07-04,Cash,10,4,5,15,0.17,Very Low,2,Bearish,Below Range,Buy 6%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF014,2026-07-05,Commodities,12,16,7,17,2.38,Medium,5,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF038,2026-07-06,Commodities,14,14,9,19,1.51,Medium,6,Neutral,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF015,2026-07-07,US Equity,49,54,44,54,0.32,High,9,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF003,2026-07-08,Commodities,6,14,1,11,1.47,Medium,5,Bullish,Above Range,Sell 8%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF050,2026-07-09,Cash,5,5,0,10,0.3,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF015,2026-07-10,Commodities,11,3,6,16,0.72,Medium,5,Neutral,Below Range,Buy 8%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2026-07-11,Cash,5,3,0,10,0.43,Very Low,2,Neutral,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF038,2026-07-12,Cash,10,13,5,15,0.34,Very Low,2,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF007,2026-07-13,US Equity,36,40,31,41,7.74,High,10,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF014,2026-07-14,Commodities,6,3,1,11,-3.68,Medium,5,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF031,2026-07-15,Bonds,22,30,17,27,-0.96,Low,4,Bullish,Above Range,Sell 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF018,2026-07-16,US Equity,47,52,42,52,5.63,High,10,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF042,2026-07-17,Bonds,24,23,19,29,1.1,Low,4,Bullish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF045,2026-07-18,International Equity,19,24,14,24,-2.01,Medium,6,Bullish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF005,2026-07-19,US Equity,42,43,37,47,3.67,High,9,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF022,2026-07-20,US Equity,45,43,40,50,1.58,High,10,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF005,2026-07-21,International Equity,10,5,5,15,3.51,Medium,7,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF005,2026-07-22,US Equity,42,39,37,47,-2.78,High,9,Bullish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF045,2026-07-23,US Equity,43,41,38,48,4.29,High,8,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF002,2026-07-24,Commodities,14,18,9,19,3.67,Medium,5,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF021,2026-07-25,US Equity,45,44,40,50,7.46,High,8,Bullish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF001,2026-07-26,Commodities,13,8,8,18,-1.68,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF007,2026-07-27,International Equity,11,11,6,16,2.8,Medium,5,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF005,2026-07-28,Cash,5,9,0,10,0.68,Very Low,1,Neutral,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF048,2026-07-29,Commodities,11,10,6,16,1.03,Medium,5,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF048,2026-07-30,International Equity,12,19,7,17,-1.44,Medium,5,Bullish,Above Range,Sell 7%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF016,2026-07-31,Commodities,10,18,5,15,3.92,Medium,5,Neutral,Above Range,Sell 8%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF013,2026-08-01,Bonds,27,31,22,32,1.09,Low,4,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF016,2026-08-02,US Equity,39,37,34,44,-1.93,High,9,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF011,2026-08-03,International Equity,14,20,9,19,6.61,Medium,6,Bearish,Above Range,Sell 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF036,2026-08-04,International Equity,19,15,14,24,4.84,Medium,6,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF010,2026-08-05,Bonds,32,33,27,37,0.5,Low,3,Neutral,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF003,2026-08-06,Bonds,20,24,15,25,2.7,Low,4,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF048,2026-08-07,US Equity,47,50,42,52,1.62,High,8,Neutral,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF016,2026-08-08,Bonds,35,27,30,40,1.79,Low,4,Neutral,Below Range,Buy 8%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF033,2026-08-09,Cash,10,14,5,15,0.4,Very Low,1,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF011,2026-08-10,Cash,1,4,0,6,0.81,Very Low,2,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF032,2026-08-11,International Equity,16,21,11,21,2.85,Medium,5,Bullish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF006,2026-08-12,Bonds,34,32,29,39,-0.76,Low,3,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF018,2026-08-13,Commodities,6,8,1,11,-3.7,Medium,6,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF024,2026-08-14,US Equity,36,40,31,41,2.84,High,9,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF002,2026-08-15,Commodities,10,14,5,15,2.11,Medium,5,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF048,2026-08-16,Cash,7,14,2,12,0.51,Very Low,1,Bullish,Above Range,Sell 7%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF034,2026-08-17,Commodities,14,8,9,19,-0.52,Medium,7,Bearish,Below Range,Buy 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF014,2026-08-18,Cash,4,10,0,9,0.17,Very Low,2,Neutral,Above Range,Sell 6%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF043,2026-08-19,Bonds,23,25,18,28,2.61,Low,3,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF015,2026-08-20,Bonds,22,16,17,27,1.58,Low,4,Neutral,Below Range,Buy 6%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF037,2026-08-21,Commodities,6,8,1,11,3.41,Medium,7,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF026,2026-08-22,US Equity,44,48,39,49,7.74,High,8,Neutral,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF020,2026-08-23,US Equity,49,56,44,54,3.84,High,10,Neutral,Above Range,Sell 7%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF045,2026-08-24,Cash,10,8,5,15,0.5,Very Low,2,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF026,2026-08-25,US Equity,40,37,35,45,7.88,High,10,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF045,2026-08-26,US Equity,44,39,39,49,-3.3,High,10,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF007,2026-08-27,International Equity,13,5,8,18,-0.65,Medium,6,Neutral,Below Range,Buy 8%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF032,2026-08-28,Commodities,5,7,0,10,1.93,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF008,2026-08-29,Commodities,15,21,10,20,4.65,Medium,7,Bearish,Above Range,Sell 6%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF031,2026-08-30,US Equity,37,45,32,42,-2.08,High,10,Bullish,Above Range,Sell 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF034,2026-08-31,International Equity,15,12,10,20,-0.14,Medium,7,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF006,2026-09-01,Cash,2,0,0,7,0.01,Very Low,2,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF034,2026-09-02,Cash,8,9,3,13,0.36,Very Low,1,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF003,2026-09-03,Commodities,14,22,9,19,5.11,Medium,7,Neutral,Above Range,Sell 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF017,2026-09-04,Bonds,29,27,24,34,1.37,Low,3,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF046,2026-09-05,International Equity,11,16,6,16,6.28,Medium,5,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF005,2026-09-06,Commodities,7,11,2,12,-3.74,Medium,6,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF034,2026-09-07,Commodities,10,9,5,15,-1.26,Medium,5,Bullish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF048,2026-09-08,Commodities,13,14,8,18,1.52,Medium,5,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF047,2026-09-09,Cash,4,0,0,9,0.69,Very Low,1,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF041,2026-09-10,Commodities,12,15,7,17,3.98,Medium,6,Neutral,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF036,2026-09-11,US Equity,44,38,39,49,-4.0,High,10,Bullish,Below Range,Buy 6%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF045,2026-09-12,International Equity,18,25,13,23,0.97,Medium,5,Bullish,Above Range,Sell 7%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF004,2026-09-13,Cash,10,3,5,15,0.61,Very Low,1,Bearish,Below Range,Buy 7%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF014,2026-09-14,International Equity,15,17,10,20,5.97,Medium,6,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF020,2026-09-15,US Equity,47,40,42,52,7.16,High,8,Neutral,Below Range,Buy 7%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF008,2026-09-16,Commodities,10,13,5,15,-3.91,Medium,5,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF029,2026-09-17,International Equity,14,21,9,19,-0.26,Medium,6,Neutral,Above Range,Sell 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF027,2026-09-18,International Equity,16,19,11,21,5.6,Medium,5,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF033,2026-09-19,Commodities,15,15,10,20,-2.81,Medium,7,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF028,2026-09-20,International Equity,10,6,5,15,-0.87,Medium,5,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF013,2026-09-21,International Equity,11,10,6,16,2.41,Medium,6,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF002,2026-09-22,International Equity,19,15,14,24,-2.25,Medium,5,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF042,2026-09-23,Cash,6,14,1,11,0.31,Very Low,1,Bearish,Above Range,Sell 8%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF043,2026-09-24,US Equity,44,47,39,49,4.25,High,8,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF043,2026-09-25,Commodities,12,7,7,17,0.31,Medium,6,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF009,2026-09-26,US Equity,39,47,34,44,2.86,High,10,Bearish,Above Range,Sell 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF049,2026-09-27,Cash,3,1,0,8,0.7,Very Low,1,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF005,2026-09-28,Bonds,21,21,16,26,2.57,Low,4,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF029,2026-09-29,International Equity,19,15,14,24,-1.52,Medium,7,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF020,2026-09-30,Cash,4,2,0,9,0.18,Very Low,1,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF018,2026-10-01,Bonds,28,27,23,33,-0.82,Low,4,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF027,2026-10-02,US Equity,42,45,37,47,3.22,High,10,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF042,2026-10-03,Cash,0,3,0,5,0.22,Very Low,2,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF010,2026-10-04,Commodities,8,6,3,13,1.82,Medium,6,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF012,2026-10-05,International Equity,17,14,12,22,-2.73,Medium,7,Bullish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF025,2026-10-06,International Equity,11,10,6,16,0.46,Medium,7,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF007,2026-10-07,International Equity,20,16,15,25,-2.02,Medium,5,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF041,2026-10-08,Cash,7,13,2,12,0.82,Very Low,2,Bullish,Above Range,Sell 6%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF025,2026-10-09,Cash,8,9,3,13,0.1,Very Low,2,Bullish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF008,2026-10-10,Bonds,29,24,24,34,0.97,Low,3,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF023,2026-10-11,Commodities,14,19,9,19,1.3,Medium,5,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF005,2026-10-12,US Equity,43,37,38,48,5.26,High,8,Bearish,Below Range,Buy 6%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF039,2026-10-13,US Equity,48,44,43,53,-2.64,High,9,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF045,2026-10-14,Commodities,11,18,6,16,1.39,Medium,6,Neutral,Above Range,Sell 7%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF030,2026-10-15,US Equity,42,45,37,47,2.26,High,9,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF004,2026-10-16,Bonds,27,23,22,32,-0.53,Low,4,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF049,2026-10-17,US Equity,37,33,32,42,-0.25,High,8,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF039,2026-10-18,Bonds,24,29,19,29,1.89,Low,3,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF006,2026-10-19,Bonds,20,26,15,25,1.22,Low,4,Bearish,Above Range,Sell 6%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF025,2026-10-20,Cash,9,2,4,14,0.22,Very Low,1,Bearish,Below Range,Buy 7%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF011,2026-10-21,Bonds,31,31,26,36,-0.57,Low,4,Bullish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF003,2026-10-22,Cash,0,1,0,5,0.19,Very Low,1,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF022,2026-10-23,US Equity,45,46,40,50,7.46,High,10,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF041,2026-10-24,International Equity,19,26,14,24,2.04,Medium,5,Neutral,Above Range,Sell 7%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF003,2026-10-25,US Equity,42,39,37,47,7.91,High,9,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF007,2026-10-26,International Equity,19,15,14,24,1.8,Medium,5,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF031,2026-10-27,International Equity,12,12,7,17,1.92,Medium,5,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF024,2026-10-28,Commodities,6,0,1,11,-0.37,Medium,6,Neutral,Below Range,Buy 6%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF007,2026-10-29,Cash,6,14,1,11,0.45,Very Low,1,Neutral,Above Range,Sell 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF006,2026-10-30,Commodities,14,13,9,19,-0.12,Medium,6,Bearish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF018,2026-10-31,Bonds,32,34,27,37,-0.74,Low,4,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF004,2026-11-01,International Equity,12,10,7,17,-1.16,Medium,5,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF034,2026-11-02,Bonds,33,30,28,38,-0.67,Low,4,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF035,2026-11-03,Bonds,25,27,20,30,2.85,Low,3,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF010,2026-11-04,Bonds,31,29,26,36,-0.69,Low,4,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF014,2026-11-05,International Equity,11,16,6,16,-1.85,Medium,5,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF033,2026-11-06,Bonds,25,28,20,30,-0.16,Low,3,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF012,2026-11-07,US Equity,50,53,45,55,5.77,High,8,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF007,2026-11-08,Cash,10,15,5,15,0.63,Very Low,1,Neutral,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF031,2026-11-09,International Equity,19,20,14,24,5.22,Medium,6,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF044,2026-11-10,US Equity,46,38,41,51,7.22,High,10,Bearish,Below Range,Buy 8%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF013,2026-11-11,Bonds,33,29,28,38,2.16,Low,4,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF007,2026-11-12,Cash,2,6,0,7,0.98,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF002,2026-11-13,Bonds,32,29,27,37,2.79,Low,3,Bearish,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF043,2026-11-14,Cash,7,10,2,12,0.19,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF005,2026-11-15,US Equity,43,38,38,48,-3.56,High,9,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF041,2026-11-16,International Equity,11,3,6,16,-0.04,Medium,5,Bearish,Below Range,Buy 8%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF034,2026-11-17,International Equity,10,3,5,15,-3.59,Medium,6,Neutral,Below Range,Buy 7%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF009,2026-11-18,Commodities,14,6,9,19,1.18,Medium,6,Bullish,Below Range,Buy 8%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF013,2026-11-19,Bonds,24,22,19,29,2.81,Low,4,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF028,2026-11-20,Commodities,15,10,10,20,1.84,Medium,5,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF033,2026-11-21,Cash,9,13,4,14,0.43,Very Low,2,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF005,2026-11-22,Commodities,14,17,9,19,-0.02,Medium,6,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF036,2026-11-23,Bonds,31,23,26,36,0.27,Low,4,Neutral,Below Range,Buy 8%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF021,2026-11-24,US Equity,47,45,42,52,-3.66,High,10,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF037,2026-11-25,Bonds,21,21,16,26,0.68,Low,4,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF005,2026-11-26,US Equity,44,50,39,49,-1.3,High,10,Bullish,Above Range,Sell 6%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF032,2026-11-27,International Equity,14,17,9,19,-0.2,Medium,7,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF035,2026-11-28,US Equity,46,38,41,51,-3.2,High,8,Bullish,Below Range,Buy 8%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF008,2026-11-29,US Equity,36,37,31,41,-4.02,High,10,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF015,2026-11-30,Bonds,24,30,19,29,1.67,Low,4,Bearish,Above Range,Sell 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF043,2026-12-01,US Equity,43,42,38,48,3.57,High,9,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2026-12-02,Bonds,32,34,27,37,-0.17,Low,4,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF010,2026-12-03,Bonds,32,30,27,37,2.12,Low,3,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF028,2026-12-04,International Equity,10,7,5,15,-1.8,Medium,6,Bullish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF013,2026-12-05,Bonds,32,34,27,37,-0.79,Low,4,Neutral,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF015,2026-12-06,Commodities,7,15,2,12,2.07,Medium,7,Neutral,Above Range,Sell 8%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF026,2026-12-07,US Equity,36,30,31,41,1.92,High,10,Neutral,Below Range,Buy 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF048,2026-12-08,US Equity,42,40,37,47,-0.48,High,8,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF002,2026-12-09,Commodities,10,7,5,15,-2.13,Medium,5,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF037,2026-12-10,Bonds,22,25,17,27,2.88,Low,4,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF017,2026-12-11,Commodities,7,8,2,12,4.04,Medium,6,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF027,2026-12-12,Commodities,10,18,5,15,3.75,Medium,6,Neutral,Above Range,Sell 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF034,2026-12-13,Bonds,31,36,26,36,0.44,Low,3,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF028,2026-12-14,Bonds,31,36,26,36,2.78,Low,4,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF032,2026-12-15,International Equity,10,6,5,15,0.6,Medium,7,Neutral,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF043,2026-12-16,Commodities,5,3,0,10,-1.17,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF038,2026-12-17,US Equity,36,44,31,41,3.65,High,9,Bullish,Above Range,Sell 8%,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF012,2026-12-18,US Equity,44,43,39,49,5.55,High,8,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF035,2026-12-19,Cash,10,8,5,15,0.25,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF030,2026-12-20,Bonds,33,39,28,38,1.78,Low,4,Bearish,Above Range,Sell 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF049,2026-12-21,US Equity,35,36,30,40,5.23,High,10,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF039,2026-12-22,International Equity,10,18,5,15,0.52,Medium,5,Neutral,Above Range,Sell 8%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF015,2026-12-23,US Equity,44,52,39,49,4.61,High,8,Neutral,Above Range,Sell 8%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF014,2026-12-24,Bonds,29,27,24,34,-0.54,Low,3,Neutral,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF043,2026-12-25,US Equity,50,43,45,55,7.04,High,8,Bullish,Below Range,Buy 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF031,2026-12-26,Cash,0,0,0,5,0.14,Very Low,1,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2026-12-27,Commodities,14,14,9,19,-0.09,Medium,6,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF011,2026-12-28,US Equity,47,53,42,52,-4.45,High,10,Bearish,Above Range,Sell 6%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF046,2026-12-29,Commodities,13,7,8,18,-2.26,Medium,7,Neutral,Below Range,Buy 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF045,2026-12-30,Bonds,29,36,24,34,0.51,Low,3,Neutral,Above Range,Sell 7%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF007,2026-12-31,Commodities,6,3,1,11,-1.68,Medium,7,Bearish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF021,2027-01-01,Bonds,33,33,28,38,-0.54,Low,4,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF028,2027-01-02,US Equity,49,47,44,54,-2.46,High,9,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF012,2027-01-03,Cash,10,5,5,15,0.2,Very Low,1,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF037,2027-01-04,Cash,7,15,2,12,0.35,Very Low,1,Neutral,Above Range,Sell 8%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF005,2027-01-05,US Equity,39,38,34,44,-4.33,High,9,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF017,2027-01-06,Bonds,22,30,17,27,2.73,Low,4,Neutral,Above Range,Sell 8%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF016,2027-01-07,US Equity,36,38,31,41,6.54,High,10,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF032,2027-01-08,International Equity,11,5,6,16,5.65,Medium,6,Bullish,Below Range,Buy 6%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF036,2027-01-09,Cash,4,3,0,9,0.02,Very Low,1,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF022,2027-01-10,International Equity,12,17,7,17,1.59,Medium,5,Bearish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF009,2027-01-11,International Equity,11,3,6,16,-2.27,Medium,7,Bullish,Below Range,Buy 8%,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF017,2027-01-12,International Equity,15,14,10,20,6.98,Medium,6,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF023,2027-01-13,Cash,7,8,2,12,0.94,Very Low,2,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF045,2027-01-14,International Equity,13,21,8,18,-2.23,Medium,6,Bullish,Above Range,Sell 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF002,2027-01-15,International Equity,17,17,12,22,-1.66,Medium,5,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF039,2027-01-16,International Equity,13,17,8,18,-2.79,Medium,7,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF028,2027-01-17,Commodities,5,10,0,10,4.66,Medium,7,Neutral,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF037,2027-01-18,Cash,3,0,0,8,0.91,Very Low,2,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF012,2027-01-19,International Equity,14,14,9,19,4.39,Medium,6,Neutral,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF040,2027-01-20,International Equity,10,3,5,15,6.59,Medium,6,Neutral,Below Range,Buy 7%,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF015,2027-01-21,Cash,4,4,0,9,0.26,Very Low,2,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF035,2027-01-22,US Equity,36,38,31,41,-4.45,High,9,Bearish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF005,2027-01-23,US Equity,42,48,37,47,-3.53,High,9,Neutral,Above Range,Sell 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF024,2027-01-24,International Equity,15,18,10,20,-0.98,Medium,6,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF049,2027-01-25,US Equity,44,42,39,49,5.5,High,10,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF018,2027-01-26,US Equity,37,42,32,42,2.01,High,9,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF023,2027-01-27,Bonds,27,26,22,32,0.82,Low,3,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF044,2027-01-28,Cash,9,8,4,14,0.45,Very Low,2,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2027-01-29,Cash,5,0,0,10,0.08,Very Low,2,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF009,2027-01-30,US Equity,40,47,35,45,4.66,High,8,Neutral,Above Range,Sell 7%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF005,2027-01-31,Cash,6,5,1,11,0.71,Very Low,1,Neutral,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF001,2027-02-01,Commodities,15,16,10,20,3.58,Medium,7,Neutral,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF037,2027-02-02,Cash,7,4,2,12,0.51,Very Low,2,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF023,2027-02-03,Cash,5,2,0,10,0.95,Very Low,1,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF010,2027-02-04,Commodities,9,15,4,14,-1.76,Medium,6,Bullish,Above Range,Sell 6%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF034,2027-02-05,US Equity,41,39,36,46,-4.91,High,9,Neutral,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF006,2027-02-06,Bonds,29,34,24,34,0.97,Low,3,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF036,2027-02-07,Bonds,30,30,25,35,0.81,Low,4,Bullish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF009,2027-02-08,US Equity,35,34,30,40,3.75,High,9,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF041,2027-02-09,Bonds,26,33,21,31,1.23,Low,3,Neutral,Above Range,Sell 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF035,2027-02-10,Cash,10,7,5,15,0.88,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF021,2027-02-11,International Equity,11,16,6,16,6.63,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF036,2027-02-12,US Equity,46,51,41,51,3.93,High,10,Bullish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF020,2027-02-13,Commodities,11,16,6,16,-0.01,Medium,6,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF025,2027-02-14,International Equity,12,10,7,17,4.35,Medium,5,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF011,2027-02-15,US Equity,45,38,40,50,1.74,High,10,Bearish,Below Range,Buy 7%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF019,2027-02-16,Commodities,8,0,3,13,-3.64,Medium,7,Bearish,Below Range,Buy 8%,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF005,2027-02-17,Commodities,15,15,10,20,3.5,Medium,5,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF020,2027-02-18,Cash,9,5,4,14,0.1,Very Low,2,Bearish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF019,2027-02-19,Commodities,6,13,1,11,-0.23,Medium,5,Neutral,Above Range,Sell 7%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF029,2027-02-20,Cash,6,9,1,11,0.76,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF006,2027-02-21,Commodities,15,11,10,20,4.1,Medium,7,Bullish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF021,2027-02-22,Bonds,35,28,30,40,2.07,Low,4,Bearish,Below Range,Buy 7%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF007,2027-02-23,Cash,8,15,3,13,0.55,Very Low,2,Neutral,Above Range,Sell 7%,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF011,2027-02-24,International Equity,10,18,5,15,3.98,Medium,6,Bullish,Above Range,Sell 8%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF037,2027-02-25,Cash,6,0,1,11,0.3,Very Low,2,Bearish,Below Range,Buy 6%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF034,2027-02-26,Bonds,29,32,24,34,1.08,Low,4,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF022,2027-02-27,International Equity,12,19,7,17,-4.2,Medium,7,Bullish,Above Range,Sell 7%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF028,2027-02-28,US Equity,36,39,31,41,3.27,High,8,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF037,2027-03-01,Cash,4,2,0,9,0.08,Very Low,1,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF040,2027-03-02,US Equity,39,39,34,44,7.57,High,8,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF020,2027-03-03,Bonds,25,19,20,30,2.58,Low,3,Bearish,Below Range,Buy 6%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF011,2027-03-04,Cash,6,10,1,11,0.71,Very Low,2,Neutral,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF047,2027-03-05,Commodities,13,13,8,18,2.85,Medium,5,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF024,2027-03-06,International Equity,15,7,10,20,-2.65,Medium,5,Bearish,Below Range,Buy 8%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF039,2027-03-07,Commodities,5,12,0,10,-0.02,Medium,7,Neutral,Above Range,Sell 7%,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF027,2027-03-08,International Equity,20,15,15,25,-4.54,Medium,7,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF044,2027-03-09,US Equity,36,31,31,41,6.15,High,10,Neutral,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF012,2027-03-10,Commodities,13,17,8,18,0.16,Medium,5,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF030,2027-03-11,International Equity,13,18,8,18,-2.92,Medium,6,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF014,2027-03-12,Cash,1,0,0,6,0.73,Very Low,1,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF018,2027-03-13,Commodities,8,6,3,13,3.47,Medium,5,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF023,2027-03-14,Bonds,33,31,28,38,-0.29,Low,4,Bearish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF042,2027-03-15,Cash,7,4,2,12,0.04,Very Low,2,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF034,2027-03-16,Commodities,13,7,8,18,1.13,Medium,5,Bearish,Below Range,Buy 6%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF011,2027-03-17,Bonds,24,27,19,29,1.26,Low,4,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF040,2027-03-18,International Equity,20,17,15,25,5.96,Medium,6,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF028,2027-03-19,International Equity,13,16,8,18,2.21,Medium,6,Bullish,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF020,2027-03-20,Commodities,7,8,2,12,4.87,Medium,5,Bearish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF014,2027-03-21,Bonds,34,26,29,39,1.63,Low,3,Bullish,Below Range,Buy 8%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF031,2027-03-22,International Equity,20,23,15,25,-4.94,Medium,5,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF035,2027-03-23,International Equity,16,18,11,21,4.16,Medium,6,Neutral,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF005,2027-03-24,US Equity,46,45,41,51,6.51,High,9,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF020,2027-03-25,Bonds,35,36,30,40,0.74,Low,4,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF001,2027-03-26,International Equity,16,13,11,21,-0.22,Medium,5,Neutral,Within Range,Hold,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF039,2027-03-27,Bonds,24,30,19,29,-0.95,Low,4,Bearish,Above Range,Sell 6%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF046,2027-03-28,International Equity,18,13,13,23,4.43,Medium,7,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF039,2027-03-29,Cash,7,12,2,12,0.05,Very Low,2,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF020,2027-03-30,Commodities,10,2,5,15,1.43,Medium,6,Bullish,Below Range,Buy 8%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF018,2027-03-31,US Equity,38,37,33,43,-2.72,High,8,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF033,2027-04-01,Commodities,13,6,8,18,-3.23,Medium,5,Neutral,Below Range,Buy 7%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF040,2027-04-02,US Equity,45,42,40,50,7.35,High,8,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF039,2027-04-03,Cash,7,5,2,12,0.76,Very Low,2,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF015,2027-04-04,International Equity,10,8,5,15,-4.78,Medium,6,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF036,2027-04-05,Bonds,30,31,25,35,1.91,Low,4,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF026,2027-04-06,US Equity,45,41,40,50,1.01,High,10,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF010,2027-04-07,US Equity,37,35,32,42,4.72,High,9,Bearish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF039,2027-04-08,Cash,6,0,1,11,0.75,Very Low,2,Neutral,Below Range,Buy 6%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF039,2027-04-09,US Equity,38,39,33,43,-2.68,High,9,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF011,2027-04-10,Commodities,15,17,10,20,1.02,Medium,6,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF013,2027-04-11,Bonds,29,35,24,34,1.62,Low,4,Bearish,Above Range,Sell 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF044,2027-04-12,US Equity,42,36,37,47,2.79,High,10,Bullish,Below Range,Buy 6%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF046,2027-04-13,US Equity,46,54,41,51,6.22,High,10,Bullish,Above Range,Sell 8%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF030,2027-04-14,Bonds,24,22,19,29,1.31,Low,3,Bearish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF017,2027-04-15,Cash,7,1,2,12,0.01,Very Low,1,Bearish,Below Range,Buy 6%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF008,2027-04-16,Cash,0,1,0,5,0.81,Very Low,1,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF022,2027-04-17,US Equity,39,42,34,44,0.37,High,9,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF049,2027-04-18,US Equity,49,50,44,54,3.96,High,9,Neutral,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF044,2027-04-19,Bonds,29,32,24,34,1.86,Low,3,Bearish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF017,2027-04-20,Commodities,7,11,2,12,-1.43,Medium,5,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF012,2027-04-21,Commodities,14,10,9,19,1.87,Medium,6,Neutral,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF023,2027-04-22,International Equity,11,10,6,16,-1.29,Medium,6,Neutral,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF004,2027-04-23,International Equity,13,16,8,18,2.97,Medium,6,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF048,2027-04-24,International Equity,12,11,7,17,-2.26,Medium,5,Bearish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF013,2027-04-25,Bonds,24,22,19,29,-0.09,Low,4,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF047,2027-04-26,International Equity,17,12,12,22,1.51,Medium,6,Bullish,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF017,2027-04-27,International Equity,14,14,9,19,0.91,Medium,7,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF032,2027-04-28,Cash,8,16,3,13,0.31,Very Low,2,Bullish,Above Range,Sell 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF050,2027-04-29,Bonds,22,17,17,27,2.7,Low,4,Neutral,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF021,2027-04-30,US Equity,42,44,37,47,4.96,High,9,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF020,2027-05-01,Bonds,32,29,27,37,0.3,Low,4,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF042,2027-05-02,Commodities,10,16,5,15,-0.92,Medium,5,Bullish,Above Range,Sell 6%,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF014,2027-05-03,Bonds,28,28,23,33,0.18,Low,3,Bearish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF018,2027-05-04,Cash,3,0,0,8,0.33,Very Low,2,Bearish,Within Range,Hold,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF021,2027-05-05,Cash,10,12,5,15,0.28,Very Low,2,Bearish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF045,2027-05-06,International Equity,14,12,9,19,1.74,Medium,6,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF017,2027-05-07,US Equity,39,37,34,44,-2.61,High,9,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF037,2027-05-08,Cash,6,11,1,11,0.4,Very Low,2,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF037,2027-05-09,International Equity,17,19,12,22,2.61,Medium,7,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF034,2027-05-10,International Equity,16,22,11,21,0.42,Medium,5,Neutral,Above Range,Sell 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF035,2027-05-11,International Equity,14,18,9,19,-4.77,Medium,6,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF035,2027-05-12,International Equity,12,8,7,17,-2.53,Medium,5,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF009,2027-05-13,Commodities,10,8,5,15,-1.98,Medium,6,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF012,2027-05-14,International Equity,17,21,12,22,-4.41,Medium,5,Bearish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF017,2027-05-15,Cash,7,10,2,12,0.75,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF015,2027-05-16,Cash,6,11,1,11,0.4,Very Low,1,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF045,2027-05-17,US Equity,47,49,42,52,-4.41,High,8,Bullish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF024,2027-05-18,International Equity,13,14,8,18,-0.54,Medium,6,Bullish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF003,2027-05-19,US Equity,40,44,35,45,3.13,High,8,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF008,2027-05-20,Bonds,21,29,16,26,-0.32,Low,3,Bullish,Above Range,Sell 8%,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF031,2027-05-21,International Equity,17,9,12,22,-1.26,Medium,5,Neutral,Below Range,Buy 8%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF015,2027-05-22,International Equity,18,14,13,23,-2.29,Medium,7,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF048,2027-05-23,Commodities,10,18,5,15,1.17,Medium,6,Bearish,Above Range,Sell 8%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF023,2027-05-24,International Equity,10,3,5,15,5.02,Medium,6,Bullish,Below Range,Buy 7%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF017,2027-05-25,Bonds,34,34,29,39,1.18,Low,4,Bearish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF007,2027-05-26,Commodities,15,17,10,20,3.63,Medium,6,Neutral,Within Range,Hold,Portfolio Managers,Allocation visibility,Primary decision-makers responsible for investment allocation and performance.
+PF033,2027-05-27,Bonds,23,19,18,28,2.49,Low,4,Bullish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF024,2027-05-28,Bonds,27,35,22,32,1.4,Low,3,Neutral,Above Range,Sell 8%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF025,2027-05-29,Bonds,25,24,20,30,2.37,Low,4,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF049,2027-05-30,Cash,2,3,0,7,0.0,Very Low,2,Neutral,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF015,2027-05-31,International Equity,12,16,7,17,4.44,Medium,7,Bullish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF034,2027-06-01,Commodities,6,2,1,11,-1.94,Medium,6,Neutral,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF025,2027-06-02,US Equity,50,45,45,55,2.04,High,10,Bearish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF043,2027-06-03,Commodities,11,18,6,16,3.58,Medium,5,Neutral,Above Range,Sell 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF023,2027-06-04,International Equity,20,20,15,25,5.11,Medium,7,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF003,2027-06-05,US Equity,35,42,30,40,-2.12,High,10,Bearish,Above Range,Sell 7%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF030,2027-06-06,Cash,1,0,0,6,0.36,Very Low,2,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF002,2027-06-07,Cash,10,2,5,15,0.22,Very Low,1,Bullish,Below Range,Buy 8%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF014,2027-06-08,International Equity,15,14,10,20,-1.68,Medium,6,Neutral,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF021,2027-06-09,Cash,7,1,2,12,0.33,Very Low,1,Neutral,Below Range,Buy 6%,Pension Funds,Controlled volatility,Manage institutional capital and long-term beneficiary obligations.
+PF013,2027-06-10,Cash,4,11,0,9,0.35,Very Low,2,Bearish,Above Range,Sell 7%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF010,2027-06-11,Cash,2,6,0,7,0.62,Very Low,1,Neutral,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF043,2027-06-12,Commodities,7,8,2,12,2.13,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF029,2027-06-13,Commodities,8,7,3,13,0.4,Medium,5,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF024,2027-06-14,International Equity,18,22,13,23,2.53,Medium,7,Bearish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF039,2027-06-15,Bonds,31,30,26,36,2.18,Low,3,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF036,2027-06-16,Bonds,27,20,22,32,0.84,Low,4,Bullish,Below Range,Buy 7%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF046,2027-06-17,International Equity,12,15,7,17,-4.22,Medium,7,Neutral,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF040,2027-06-18,Bonds,26,27,21,31,0.32,Low,3,Neutral,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF042,2027-06-19,US Equity,46,54,41,51,0.38,High,10,Bullish,Above Range,Sell 8%,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF023,2027-06-20,International Equity,11,15,6,16,4.66,Medium,5,Bullish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF049,2027-06-21,Bonds,28,28,23,33,0.61,Low,4,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF025,2027-06-22,US Equity,43,36,38,48,3.88,High,10,Bullish,Below Range,Buy 7%,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF029,2027-06-23,Commodities,6,13,1,11,-2.18,Medium,5,Bullish,Above Range,Sell 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF007,2027-06-24,Bonds,34,29,29,39,2.23,Low,4,Neutral,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF032,2027-06-25,International Equity,15,19,10,20,4.41,Medium,6,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF019,2027-06-26,Bonds,21,16,16,26,2.39,Low,4,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF036,2027-06-27,Commodities,8,13,3,13,0.04,Medium,6,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF048,2027-06-28,International Equity,14,7,9,19,1.33,Medium,5,Neutral,Below Range,Buy 7%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF044,2027-06-29,US Equity,35,38,30,40,7.53,High,10,Neutral,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF025,2027-06-30,US Equity,41,43,36,46,-4.05,High,10,Neutral,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF039,2027-07-01,Bonds,29,31,24,34,2.94,Low,3,Bullish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF018,2027-07-02,Bonds,33,34,28,38,-0.18,Low,4,Bearish,Within Range,Hold,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF008,2027-07-03,Bonds,28,32,23,33,-0.83,Low,3,Bullish,Within Range,Hold,Pension Funds,Stable long-term returns,Manage institutional capital and long-term beneficiary obligations.
+PF007,2027-07-04,Bonds,22,19,17,27,2.77,Low,4,Bearish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF025,2027-07-05,US Equity,47,45,42,52,-3.35,High,8,Bullish,Within Range,Hold,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF047,2027-07-06,Bonds,22,25,17,27,0.75,Low,4,Neutral,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF015,2027-07-07,Commodities,7,4,2,12,-0.5,Medium,6,Bullish,Within Range,Hold,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF008,2027-07-08,Bonds,30,36,25,35,-0.72,Low,4,Bullish,Above Range,Sell 6%,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF050,2027-07-09,US Equity,48,51,43,53,-4.5,High,9,Bullish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF048,2027-07-10,Cash,9,3,4,14,0.02,Very Low,2,Neutral,Below Range,Buy 6%,Financial Researchers,Risk modeling,Improve portfolio models and validate investment methodologies.
+PF041,2027-07-11,Bonds,28,35,23,33,2.68,Low,4,Bullish,Above Range,Sell 7%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF009,2027-07-12,Bonds,28,33,23,33,2.22,Low,3,Neutral,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF047,2027-07-13,Commodities,11,17,6,16,0.44,Medium,6,Bearish,Above Range,Sell 6%,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF026,2027-07-14,Cash,9,7,4,14,0.95,Very Low,2,Bearish,Within Range,Hold,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF034,2027-07-15,Bonds,23,24,18,28,2.62,Low,3,Bearish,Within Range,Hold,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF030,2027-07-16,International Equity,13,10,8,18,-1.72,Medium,7,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF022,2027-07-17,Bonds,35,43,30,40,1.94,Low,3,Bullish,Above Range,Sell 8%,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF019,2027-07-18,US Equity,45,46,40,50,5.93,High,9,Bearish,Within Range,Hold,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF045,2027-07-19,Commodities,7,2,2,12,1.32,Medium,7,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF038,2027-07-20,Bonds,24,20,19,29,2.52,Low,4,Bullish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF010,2027-07-21,Cash,10,13,5,15,0.89,Very Low,1,Bullish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF032,2027-07-22,US Equity,41,48,36,46,-4.79,High,9,Bullish,Above Range,Sell 7%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF022,2027-07-23,Commodities,15,15,10,20,0.49,Medium,5,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF022,2027-07-24,Cash,9,1,4,14,0.3,Very Low,1,Bullish,Below Range,Buy 8%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF033,2027-07-25,Commodities,10,10,5,15,1.52,Medium,6,Bearish,Within Range,Hold,Pension Funds,Governance transparency,Manage institutional capital and long-term beneficiary obligations.
+PF040,2027-07-26,US Equity,35,32,30,40,-0.15,High,8,Bullish,Within Range,Hold,Portfolio Managers,Risk-adjusted return improvement,Primary decision-makers responsible for investment allocation and performance.
+PF046,2027-07-27,US Equity,39,34,34,44,2.96,High,10,Bullish,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF046,2027-07-28,US Equity,35,28,30,40,4.32,High,10,Bullish,Below Range,Buy 7%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF045,2027-07-29,International Equity,20,13,15,25,0.31,Medium,5,Bearish,Below Range,Buy 7%,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF017,2027-07-30,US Equity,37,34,32,42,0.13,High,10,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF006,2027-07-31,Commodities,15,16,10,20,3.54,Medium,5,Bearish,Within Range,Hold,Portfolio Managers,Portfolio optimization,Primary decision-makers responsible for investment allocation and performance.
+PF020,2027-08-01,International Equity,19,13,14,24,1.83,Medium,6,Bearish,Below Range,Buy 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF029,2027-08-02,International Equity,19,12,14,24,3.29,Medium,6,Bearish,Below Range,Buy 7%,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF038,2027-08-03,Bonds,32,34,27,37,0.53,Low,4,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF015,2027-08-04,Bonds,23,19,18,28,0.08,Low,3,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF010,2027-08-05,Bonds,35,42,30,40,2.88,Low,4,Bearish,Above Range,Sell 7%,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF034,2027-08-06,Bonds,26,27,21,31,1.53,Low,4,Bearish,Within Range,Hold,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF021,2027-08-07,Commodities,7,14,2,12,-3.37,Medium,6,Bullish,Above Range,Sell 7%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF021,2027-08-08,International Equity,15,11,10,20,6.59,Medium,5,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF046,2027-08-09,Cash,5,0,0,10,0.53,Very Low,2,Bearish,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF042,2027-08-10,Bonds,21,13,16,26,0.31,Low,3,Bearish,Below Range,Buy 8%,Retail Investors,Simple recommendations,Potential future users seeking simplified investment decision support.
+PF010,2027-08-11,Bonds,29,37,24,34,0.13,Low,4,Bearish,Above Range,Sell 8%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF049,2027-08-12,Commodities,15,9,10,20,-0.31,Medium,7,Neutral,Below Range,Buy 6%,Investment Analysts,Clean structured data,Support investment teams using data-driven insights and analytics.
+PF024,2027-08-13,Commodities,12,18,7,17,-1.15,Medium,5,Bullish,Above Range,Sell 6%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF037,2027-08-14,Bonds,32,37,27,37,1.59,Low,3,Bullish,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF022,2027-08-15,Cash,1,0,0,6,0.14,Very Low,1,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF008,2027-08-16,US Equity,48,41,43,53,1.82,High,8,Bullish,Below Range,Buy 7%,Regulators,Transparency,"Ensure compliance, governance, and financial transparency."
+PF009,2027-08-17,Commodities,5,0,0,10,-3.48,Medium,5,Bullish,Within Range,Hold,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF003,2027-08-18,Cash,10,14,5,15,0.02,Very Low,2,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF035,2027-08-19,Bonds,26,18,21,31,0.4,Low,4,Bearish,Below Range,Buy 8%,Risk Management Teams,Drift detection,Ensure portfolio exposure remains within approved risk thresholds.
+PF008,2027-08-20,US Equity,44,48,39,49,-2.92,High,8,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF013,2027-08-21,Commodities,12,20,7,17,3.7,Medium,5,Bearish,Above Range,Sell 8%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF014,2027-08-22,Cash,5,11,0,10,0.05,Very Low,1,Bullish,Above Range,Sell 6%,Investment Committees,Executive reporting,Approve investment strategies and oversee governance.
+PF005,2027-08-23,Bonds,26,32,21,31,2.94,Low,4,Neutral,Above Range,Sell 6%,Investment Committees,Strategic alignment,Approve investment strategies and oversee governance.
+PF004,2027-08-24,Cash,0,0,0,5,0.95,Very Low,1,Neutral,Within Range,Hold,Investment Analysts,Portfolio analytics,Support investment teams using data-driven insights and analytics.
+PF030,2027-08-25,Commodities,11,11,6,16,0.17,Medium,5,Bearish,Within Range,Hold,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF002,2027-08-26,Bonds,20,15,15,25,-0.66,Low,4,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
+PF001,2027-08-27,Cash,1,5,0,6,0.68,Very Low,1,Bearish,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF042,2027-08-28,Cash,7,5,2,12,0.8,Very Low,1,Neutral,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF047,2027-08-29,US Equity,48,51,43,53,-3.85,High,10,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF024,2027-08-30,Cash,6,3,1,11,0.58,Very Low,2,Bullish,Within Range,Hold,Regulators,Risk reporting,"Ensure compliance, governance, and financial transparency."
+PF035,2027-08-31,International Equity,15,21,10,20,0.41,Medium,6,Neutral,Above Range,Sell 6%,Investment Analysts,Volatility analysis,Support investment teams using data-driven insights and analytics.
+PF044,2027-09-01,Bonds,26,21,21,31,2.96,Low,3,Bearish,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF015,2027-09-02,Commodities,10,14,5,15,1.23,Medium,7,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF013,2027-09-03,International Equity,18,25,13,23,-3.27,Medium,5,Bearish,Above Range,Sell 7%,Risk Management Teams,Exposure monitoring,Ensure portfolio exposure remains within approved risk thresholds.
+PF043,2027-09-04,US Equity,35,32,30,40,5.76,High,9,Bullish,Within Range,Hold,Financial Researchers,Allocation experiments,Improve portfolio models and validate investment methodologies.
+PF023,2027-09-05,International Equity,16,14,11,21,-1.35,Medium,7,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF031,2027-09-06,US Equity,43,48,38,48,3.95,High,9,Bullish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF036,2027-09-07,Commodities,8,14,3,13,-0.2,Medium,7,Bullish,Above Range,Sell 6%,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF045,2027-09-08,International Equity,10,6,5,15,2.12,Medium,5,Bullish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF008,2027-09-09,Cash,1,9,0,6,0.49,Very Low,2,Bearish,Above Range,Sell 8%,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF044,2027-09-10,Bonds,26,18,21,31,0.55,Low,4,Bullish,Below Range,Buy 8%,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF046,2027-09-11,Cash,1,0,0,6,0.14,Very Low,1,Neutral,Within Range,Hold,Financial Researchers,Backtesting datasets,Improve portfolio models and validate investment methodologies.
+PF026,2027-09-12,Cash,0,0,0,5,0.44,Very Low,2,Bearish,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF005,2027-09-13,Cash,2,0,0,7,0.57,Very Low,1,Bearish,Within Range,Hold,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF034,2027-09-14,Bonds,23,21,18,28,-0.41,Low,4,Bullish,Within Range,Hold,Portfolio Managers,Rebalance recommendations,Primary decision-makers responsible for investment allocation and performance.
+PF025,2027-09-15,Commodities,7,14,2,12,4.01,Medium,6,Bullish,Above Range,Sell 7%,Pension Funds,Lower drawdowns,Manage institutional capital and long-term beneficiary obligations.
+PF041,2027-09-16,Cash,8,4,3,13,0.86,Very Low,1,Neutral,Within Range,Hold,Investment Analysts,Performance tracking,Support investment teams using data-driven insights and analytics.
+PF029,2027-09-17,International Equity,16,21,11,21,-4.49,Medium,5,Neutral,Within Range,Hold,Retail Investors,Investment guidance,Potential future users seeking simplified investment decision support.
+PF028,2027-09-18,Cash,8,13,3,13,0.65,Very Low,1,Bearish,Within Range,Hold,Regulators,Compliance monitoring,"Ensure compliance, governance, and financial transparency."
+PF020,2027-09-19,Cash,1,0,0,6,0.77,Very Low,1,Bearish,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF035,2027-09-20,Cash,7,11,2,12,0.76,Very Low,1,Neutral,Within Range,Hold,Regulators,Policy adherence,"Ensure compliance, governance, and financial transparency."
+PF020,2027-09-21,Cash,4,5,0,9,0.59,Very Low,1,Neutral,Within Range,Hold,Risk Management Teams,Risk governance,Ensure portfolio exposure remains within approved risk thresholds.
+PF014,2027-09-22,Bonds,33,38,28,38,1.68,Low,3,Bullish,Within Range,Hold,Retail Investors,Risk awareness,Potential future users seeking simplified investment decision support.
+PF031,2027-09-23,International Equity,20,18,15,25,2.18,Medium,7,Bearish,Within Range,Hold,Risk Management Teams,Compliance visibility,Ensure portfolio exposure remains within approved risk thresholds.
+PF030,2027-09-24,Commodities,7,1,2,12,-1.47,Medium,5,Bullish,Below Range,Buy 6%,Investment Committees,Investment transparency,Approve investment strategies and oversee governance.
+PF009,2027-09-25,Cash,0,5,0,5,0.63,Very Low,2,Bearish,Within Range,Hold,Retail Investors,Portfolio insights,Potential future users seeking simplified investment decision support.
+PF003,2027-09-26,Bonds,31,31,26,36,-0.57,Low,3,Neutral,Within Range,Hold,Financial Researchers,Model-ready data,Improve portfolio models and validate investment methodologies.
+PF016,2027-09-27,Cash,9,9,4,14,0.28,Very Low,1,Neutral,Within Range,Hold,Investment Committees,Governance oversight,Approve investment strategies and oversee governance.
