@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os
 from utils import (
     load_data,
     compute_kpis,
@@ -32,9 +33,12 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-DATA_PATH = "synthetic_portfolio_management_dataset.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-
+DATA_PATH = os.path.join(
+    BASE_DIR,
+    "synthetic_portfolio_management_dataset.csv"
+)
 @st.cache_data
 def get_data():
     return load_data(DATA_PATH)
